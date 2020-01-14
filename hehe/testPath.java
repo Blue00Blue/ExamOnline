@@ -1,0 +1,1 @@
+[{"type":"alicloud_access_key","token":"LTAI4Ff8PhaYarBFgbpLzqTN","url":"https://github.com/Blue00Blue/ExamOnline/blob/984ebbace7789039b286dc8df03100e3c6a7b3da/test06"},{"type":"alicloud_secret_key","token":"asS3C6D2UgrPYHjaTKqKpk9j7weBa6","url":"https://github.com/Blue00Blue/ExamOnline/blob/984ebbace7789039b286dc8df03100e3c6a7b3da/test06"}]
