@@ -1,3 +1,0 @@
-//testAKLeak
-ak=LTAI4FoRWnvixohsboWipG6L
-sk=Af63jNYUPuK51PnTdrxW06D4potfpT
